@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://zapparelo.github.io/sitemap.xml

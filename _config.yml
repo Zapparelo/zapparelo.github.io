@@ -1,0 +1,50 @@
+title: "pegton · Solar-Daten"
+tagline: "MaStR-Auswertungen zu Post-EEG und Ü20-Photovoltaik"
+description: "Auswertungen aus dem Marktstammdatenregister: Post-EEG, Ü20-Anlagen und Photovoltaik in Deutschland. Mit Quellen, Datenstand 17.11.2026."
+lang: de
+locale: de_DE
+timezone: Europe/Berlin
+theme: minima
+url: "https://zapparelo.github.io"
+baseurl: ""
+author: pegton
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+twitter:
+  username: zapparelo
+  card: summary_large_image
+logo: /assets/og-default.png
+social:
+  name: pegton
+  links:
+    - https://x.com/zapparelo
+    - https://github.com/Zapparelo
+    - https://pegton.gumroad.com
+    - https://apify.com/pegton
+github_username: Zapparelo
+twitter_username: zapparelo
+header_pages:
+  - methodik.md
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /assets/og-default.png
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: post
+      author: pegton
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+kramdown:
+  input: GFM
+  hard_wrap: false
+feed:
+  path: feed.xml
