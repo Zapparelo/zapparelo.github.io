@@ -16,5 +16,5 @@ Die Zahlen stammen aus dem Marktstammdatenregister der Bundesnetzagentur (Stand 
 - [Ü20-Kompass](https://pegton.gumroad.com/l/ue20-kompass) (14,90 €): Ratgeber, Excel-Rechner und Musterbriefe
 - [Ü20-Solar-Atlas](https://pegton.gumroad.com/l/ue20-solar-atlas): 417.003 Anlagen nach PLZ, Gemeinde und Landkreis
 - [Post-EEG Gewerbe-Liste](https://pegton.gumroad.com/l/post-eeg-gewerbe-liste) (79 €): 4.858 Firmen- und Kommunalanlagen ab 30 kWp
-- Weitere Werkzeuge im [Gumroad-Shop](https://pegton.gumroad.com/) und als [Apify-Actors](https://apify.com/pegton), darunter [mastr-energy-units](https://apify.com/pegton/mastr-energy-units)
+- Weitere Werkzeuge: [Market Radar für n8n](https://pegton.gumroad.com/l/market-radar-n8n), [App Review Alerts](https://pegton.gumroad.com/l/app-review-alerts-n8n), der [Gumroad-Shop](https://pegton.gumroad.com/) und [Apify-Actors](https://apify.com/pegton), darunter [mastr-energy-units](https://apify.com/pegton/mastr-energy-units)
 
