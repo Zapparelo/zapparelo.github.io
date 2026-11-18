@@ -21,3 +21,5 @@ Tested n8n workflows that watch something for you and report only what changed. 
 - [New-job alerts and hiring signals in n8n](/en/n8n-new-job-alerts-hiring-signals/): which ATS feeds to use, and what 99 job boards showed
 - [Free website change monitor, and why a 1 % threshold alerts on most pages](/en/n8n-website-change-monitor-visual-diff/): measured page noise from 0 to 16 %
 - [Summarise new YouTube and TikTok videos with n8n](/en/n8n-youtube-tiktok-ai-summary-digest/): pipeline, costs, pitfalls
+- [How to monitor competitor websites for new pages using their sitemap](/en/monitor-competitor-new-pages-sitemap/): 30 SaaS sitemaps measured, and why `lastmod` can't be trusted
+- [Track your app's App Store keyword rankings with Apple's official API](/en/app-store-keyword-rank-tracking/): endpoints, rate limits, and the stale-data trap behind false alerts
