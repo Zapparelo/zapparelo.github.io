@@ -27,6 +27,7 @@ github_username: Zapparelo
 twitter_username: zapparelo
 header_pages:
   - methodik.md
+  - en.md
 defaults:
   - scope:
       path: ""

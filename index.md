@@ -18,3 +18,8 @@ Die Zahlen stammen aus dem Marktstammdatenregister der Bundesnetzagentur (Stand 
 - [Post-EEG Gewerbe-Liste](https://pegton.gumroad.com/l/post-eeg-gewerbe-liste) (79 €): 4.858 Firmen- und Kommunalanlagen ab 30 kWp
 - Weitere Werkzeuge: [Market Radar für n8n](https://pegton.gumroad.com/l/market-radar-n8n), [App Review Alerts](https://pegton.gumroad.com/l/app-review-alerts-n8n), der [Gumroad-Shop](https://pegton.gumroad.com/) und [Apify-Actors](https://apify.com/pegton), darunter [mastr-energy-units](https://apify.com/pegton/mastr-energy-units)
 
+**English: n8n templates & guides**
+- [Hiring Signals for n8n](https://pegton.gumroad.com/l/hiring-signals-n8n): new jobs at target companies and weekly hiring trends · [Guide](/en/n8n-new-job-alerts-hiring-signals/)
+- [Website Change Monitor](https://pegton.gumroad.com/l/website-change-monitor-n8n) (free): screenshot diffs with noise learning · [Guide](/en/n8n-website-change-monitor-visual-diff/)
+- [Creator Watch for n8n](https://pegton.gumroad.com/l/creator-watch-n8n): YouTube & TikTok videos → AI summaries · [Guide](/en/n8n-youtube-tiktok-ai-summary-digest/)
+- All templates: [/en/](/en/)
