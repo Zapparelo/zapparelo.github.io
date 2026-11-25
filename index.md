@@ -25,3 +25,6 @@ Die Zahlen stammen aus dem Marktstammdatenregister der Bundesnetzagentur (Stand 
 - [Website Change Monitor](https://pegton.gumroad.com/l/website-change-monitor-n8n) (free): screenshot diffs with noise learning · [Guide](/en/n8n-website-change-monitor-visual-diff/)
 - [Creator Watch for n8n](https://pegton.gumroad.com/l/creator-watch-n8n): YouTube & TikTok videos → AI summaries · [Guide](/en/n8n-youtube-tiktok-ai-summary-digest/)
 - All templates: [/en/](/en/)
+
+**Außerdem: Geld sparen im Januar**
+- [No-Spend-Januar 2027: Regeln, Tracker und was es wirklich bringt](/no-spend-januar-2027/) · mit Druck-Tracker (Preis frei wählbar)
