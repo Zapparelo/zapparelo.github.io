@@ -104,6 +104,7 @@ Für Handwerk, Speichervertrieb und Direktvermarkter zeigt die regionale Verteil
 ---
 
 **Daten für alle 400 Kreise und 8.054 Postleitzahlen**
+- Kostenlos: [Tabelle aller 400 Kreise](/daten/) mit Förderende 2026, 2027 und 2028, als CSV zum Download (CC BY 4.0).
 - Für Betreiber: [Post-EEG-Check](https://pegton.gumroad.com/l/post-eeg-check) (gratis) und [Ü20-Kompass](https://pegton.gumroad.com/l/ue20-kompass) (Ratgeber mit Rechner und Kreiszahlen).
 - Für Solarteure und Energieberater: [Ü20-Solar-Atlas](https://pegton.gumroad.com/l/ue20-solar-atlas) mit allen 417.003 Anlagen nach PLZ, Gemeinde und Landkreis (Kreise über AGS getrennt).
 - Für Direktvermarkter: [Post-EEG Gewerbe-Liste](https://pegton.gumroad.com/l/post-eeg-gewerbe-liste) mit 4.858 Firmen- und Kommunalanlagen ab 30 kWp, von 2.672 Organisationen (keine Privatpersonen, keine Kontaktdaten).

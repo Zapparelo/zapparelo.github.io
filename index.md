@@ -11,6 +11,8 @@ Am 31. Dezember 2026 endet für **62.318 Solaranlagen** die 20-jährige EEG-Verg
 
 Die Zahlen stammen aus dem Marktstammdatenregister der Bundesnetzagentur (Stand 17.11.2026, Datenlizenz Deutschland – Namensnennung 2.0). Wie gezählt wird, steht unter [Methodik und Quellen]({{ '/methodik/' | relative_url }}).
 
+**Offene Daten (gratis):** [Post-EEG-Anlagen in allen 400 Kreisen](/daten/) als Tabelle und CSV (CC BY 4.0), auch auf [GitHub](https://github.com/Zapparelo/post-eeg-solar-germany).
+
 **Kostenlose Checkliste und Vertiefung**
 - [Post-EEG-Check](https://pegton.gumroad.com/l/post-eeg-check) (gratis): 10-Punkte-Checkliste als PDF
 - [Ü20-Kompass](https://pegton.gumroad.com/l/ue20-kompass) (14,90 €): Ratgeber, Excel-Rechner und Musterbriefe

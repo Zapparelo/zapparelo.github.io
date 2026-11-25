@@ -52,3 +52,5 @@ Screenshots come from the [Website Screenshot & Visual Change Monitor](https://a
 **Good things to watch:** competitors' pricing and plan pages, terms of service and privacy policies (a timestamped screenshot is useful evidence), affiliate programme terms, your own site on mobile after each deploy, and landing pages of competitors' ad campaigns.
 
 *Measurements: pegton/website-screenshot-monitor, 18 Nov 2026, desktop 1920 px, full page, two captures 2 minutes apart.*
+
+**Open source:** the workflow JSON is on GitHub at [Zapparelo/n8n-website-change-monitor](https://github.com/Zapparelo/n8n-website-change-monitor) (MIT), and the shift-tolerant diff algorithm is a standalone Python package: [Zapparelo/shiftdiff](https://github.com/Zapparelo/shiftdiff) (`pip install git+https://github.com/Zapparelo/shiftdiff`).

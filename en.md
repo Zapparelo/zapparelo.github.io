@@ -23,3 +23,10 @@ Tested n8n workflows that watch something for you and report only what changed. 
 - [Summarise new YouTube and TikTok videos with n8n](/en/n8n-youtube-tiktok-ai-summary-digest/): pipeline, costs, pitfalls
 - [How to monitor competitor websites for new pages using their sitemap](/en/monitor-competitor-new-pages-sitemap/): 30 SaaS sitemaps measured, and why `lastmod` can't be trusted
 - [Track your app's App Store keyword rankings with Apple's official API](/en/app-store-keyword-rank-tracking/): endpoints, rate limits, and the stale-data trap behind false alerts
+
+## Open source & open data
+
+- [shiftdiff](https://github.com/Zapparelo/shiftdiff): Python visual diff for screenshots that ignores layout shifts (MIT)
+- [n8n-website-change-monitor](https://github.com/Zapparelo/n8n-website-change-monitor): the free workflow on GitHub (MIT)
+- [post-eeg-solar-germany](https://github.com/Zapparelo/post-eeg-solar-germany): open data on 417,003 German PV systems leaving the EEG feed-in tariff 2020–2028, by district (CC BY 4.0)
+- All hosted tools: [apify.com/pegton](https://apify.com/pegton)

@@ -26,6 +26,7 @@ social:
 github_username: Zapparelo
 twitter_username: zapparelo
 header_pages:
+  - daten.md
   - methodik.md
   - en.md
 defaults:

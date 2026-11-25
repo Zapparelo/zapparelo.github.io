@@ -44,3 +44,7 @@ Beispielrechnungen nutzen, wenn nicht anders angegeben, den Median der privaten 
 Rohdaten als Tabelle liefert der Apify-Actor [pegton/mastr-energy-units](https://apify.com/pegton/mastr-energy-units). Aufbereitete Auszüge und Ratgeber liegen im [Gumroad-Shop von pegton](https://pegton.gumroad.com/). Der Verkauf der Produkte läuft über Gumroad (Merchant of Record).
 
 Diese Website erhebt keine eigenen Nutzungsstatistiken und setzt keine Tracking-Cookies. Sie wird über GitHub Pages ausgeliefert. Beim Aufruf können technische Verbindungsdaten beim Hoster anfallen; dafür gelten die Bedingungen von GitHub.
+
+## Offene Daten
+
+Die Kreis- und Bundesland-Zahlen gibt es kostenlos als CSV (CC BY 4.0): [Tabelle und Download](/daten/) · [GitHub-Repository](https://github.com/Zapparelo/post-eeg-solar-germany).
